@@ -64,7 +64,7 @@ def listar_livros():
             "titulo": livro[1],
             "categoria": livro[2],
             "autor": livro[3],
-            "imagem_url": livro[4]
+            "image_url": livro[4]
         }
         livros_formatados.append(dicionario_livros)
 
